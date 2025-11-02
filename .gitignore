@@ -1,0 +1,23 @@
+# Archivos del sistema (Windows y otros)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales o de respaldo
+*.log
+*.tmp
+*.bak
+*.swp
+*.old
+*.orig
+
+# Archivos de Minikube o Kubernetes de respaldo
+*.yaml~
+*.yaml.backup
+
+# Docker
+*.tar
+*.pid
