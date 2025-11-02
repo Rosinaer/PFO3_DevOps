@@ -1,4 +1,4 @@
-### Seminario de Actualización DevOps
+# Seminario de Actualización DevOps
 
 ## Aplicación PHP en Kubernetes con Minikube
 
